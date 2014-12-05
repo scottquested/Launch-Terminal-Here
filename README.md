@@ -11,7 +11,7 @@ Another alternative is to copy the app into your aplications folder and then dra
 
 I have created an icon (OSX Yosemite Design ONLY) that will match the Finder Toolbar icons. If the icon does not load with the App when downloaded, right click on the app, click "show package contents" open the "contents" folder, locate the "icon" and follow thsese instructions:
 
-Step 1: Copy the icon to the clipboard
+<strong>Step 1: Copy the icon to the clipboard</strong>
 
 a) Right click on the file.
 
@@ -24,7 +24,7 @@ d) Choose 'Copy' from the 'Edit' menu.
 e) Close the info window.
 
 
-Step 2: Paste the icon to the desired item
+<strong>Step 2: Paste the icon to the desired item</strong>
 
 a) Navagate back to the App (in your appliocation folder or Desktop etc.).
 
@@ -40,7 +40,7 @@ e) Close the info window.
 
 
 
-To Run a command(s) of your choice, open the app in Apples Script Editor:
+<strong>To Run a command(s) of your choice, open the app in Apples Script Editor:</strong>
 
 a) Remove the "--" to un-comment.
 
