@@ -14,24 +14,38 @@ I have created an icon (OSX Yosemite Design ONLY) that will match the Finder Too
 Step 1: Copy the icon to the clipboard
 
 a) Right click on the file.
+
 b) Choose 'Get Info' from the 'File' menu.
+
 c) In the info window that pops up, click on the icon.
+
 d) Choose 'Copy' from the 'Edit' menu.
+
 e) Close the info window.
+
 
 Step 2: Paste the icon to the desired item
 
 a) Navagate back to the App (in your appliocation folder or Desktop etc.).
+
 b) Right click on the App
+
 b) Choose 'Get Info' from the 'File' menu.
-c) In the info window that pops up, click on the icon
+
+c) In the info window that pops up, click on the icon.
+
 d) Choose 'Paste' from the 'Edit' menu.
-e) Close the info window
+
+e) Close the info window.
+
+
 
 To Run a command(s) of your choice, open the app in Apples Script Editor:
 
 a) Remove the "--" to un-comment.
+
 b) Copy in your Terminal command where it says "Your Command" and/or "your Next Command".
+
 c) Adjust your delay between commands (a bit of trial and error will be needed here).
 	
 	-- do script "Your Command" in front window
