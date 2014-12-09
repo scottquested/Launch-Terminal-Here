@@ -56,4 +56,4 @@ c) Adjust your delay between commands (a bit of trial and error will be needed h
 
 Now run the App and away you go!
 
-This is my first Git Project so all comments and feedback would be much appriciated.
+This is my first Git Project so all comments and feedback would be much appreciated.
